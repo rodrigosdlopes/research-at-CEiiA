@@ -1,7 +1,7 @@
 # Object Detection Model for Satellite Imagery
 This repository contains the research's report conducted in my 3-months internship at CEiiA
 
-- [View full report (10 pages article)](https://github.com/rodrigosdlopes/thesis-2024/Sentinel-2 Truck Detection.pdf](https://github.com/rodrigosdlopes/research-at-CEiiA/blob/main/Sentinel-2%20Truck%20Detection.pdf)
+- [View full report (10 pages article)](https://github.com/rodrigosdlopes/research-at-CEiiA/blob/main/Sentinel-2%20Truck%20Detection.pdf)
 
 
 **Title:** *Truck Detection in Multispectral Satellite Imagery using YOLOv8 Model*
